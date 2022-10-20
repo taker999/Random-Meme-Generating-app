@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meme Sharing</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="showing_meme">Showing Meme</string>
+    <string name="download">Download</string>
+    <string name="prev">prev</string>
+    <string name="sharebuttonimage">shareButtonImage</string>
+    <string name="downloadbuttonimage">downloadButtonImage</string>
+</resources>
